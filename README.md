@@ -6,7 +6,7 @@
 
 ### Release
 
-:house: netlify 배포 예정
+:house: MOVIELE​ : https://zen-liskov-8535a3.netlify.app/
 
 :black_large_square: REST API server :  https://finprojectapi.herokuapp.com
 
