@@ -1,6 +1,6 @@
 # MOVIELE
 
-![Documentation](https://img.shields.io/badge/language-2-brightgreen)![Documentation](https://img.shields.io/badge/python-v3.8.2-orange)![Documentation](https://img.shields.io/badge/JS-ES6-orange)![Documentation](https://img.shields.io/badge/node-v12.7.0-orange)![Documentation](https://img.shields.io/badge/vue-@vue/cli 4.4.1-orange)![Documentation](https://img.shields.io/badge/API-2-black)![Documentation](https://img.shields.io/badge/movie-the movie DB-blue)![Documentation](https://img.shields.io/badge/video-google youtube API-blue)
+![Documentation](https://img.shields.io/badge/language-2-brightgreen)![Documentation](https://img.shields.io/badge/python-v3.8.2-orange)![Documentation](https://img.shields.io/badge/JS-ES6-orange)![Documentation](https://img.shields.io/badge/node-v12.7.0-orange)![Documentation](https://img.shields.io/badge/vue-@vue/cli/4.4.1-orange)![Documentation](https://img.shields.io/badge/API-2-black)![Documentation](https://img.shields.io/badge/movie-TMDB-blue)![Documentation](https://img.shields.io/badge/video-youtube-blue)
 
 ## Link
 
