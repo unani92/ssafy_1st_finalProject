@@ -48,10 +48,94 @@
 
 ### 프로젝트 구조
 
+```bash
+.
+├── BackEnd
+│   ├── FinalProjectAPI
+│   │   ├── __init__.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   ├── Procfile
+│   ├── accounts
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   ├── 0001_initial.py
+│   │   │   ├── 0002_auto_20200611_1704.py
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   ├── community
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations
+│   │   │   ├── 0001_initial.py
+│   │   │   ├── 0002_auto_20200611_1724.py
+│   │   │   └── __init__.py
+│   │   ├── models.py
+│   │   ├── rankcalculate.py
+│   │   ├── serializers.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   └── views.py
+│   ├── data
+│   │   ├── genredata.json
+│   │   └── moviedata.json
+│   ├── db.sqlite3
+│   ├── manage.py
+│   ├── requirements.txt
+│   ├── runtime.txt
+│   └── static
+│       ├── admin
+│       ├── django_extensions
+│       └── rest_framework
+├── FrontEnd
+│   ├── babel.config.js
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   ├── favicon.ico
+│   │   └── index.html
+│   └── src
+│       ├── App.vue
+│       ├── assets
+│       │   └── logo.png
+│       ├── components
+│       │   ├── ListView.vue
+│       │   ├── PaginatedListView.vue
+│       │   └── VideoDetail.vue
+│       ├── main.js
+│       ├── router
+│       │   └── index.js
+│       └── views
+│           ├── Home.vue
+│           ├── accounts
+│           │   ├── Login.vue
+│           │   ├── Logout.vue
+│           │   ├── Profile.vue
+│           │   └── Signup.vue
+│           └── community
+│               ├── articles
+│               │   ├── ArticleCreate.vue
+│               │   ├── ArticleDetail.vue
+│               │   ├── ArticleList.vue
+│               │   └── ArticleUpdate.vue
+│               └── movies
+│                   ├── MovieDetail.vue
+│                   ├── MovieList.vue
+│                   ├── MovieRecommend.vue
+│                   └── MovieSearch.vue
+└── README.md
 ```
 
-```
-
+### ERD structure
+![KakaoTalk_Photo_2020-06-11-15-36-57](https://user-images.githubusercontent.com/53211781/85009825-0bd7e680-b19a-11ea-9221-1e98d1a7d02e.png)
 
 
 ## Development
